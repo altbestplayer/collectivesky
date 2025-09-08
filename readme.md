@@ -14,7 +14,7 @@ This writeup explains the core mathematical logic behind the `isBlockLogo` metho
 
 ## Parameters and Setup
 
-- **Coordinates:** \((x, y)\) — the position to test.
+- **Coordinates:** \((x, y)\) - the position to test.
 - **Radius \(R\):** 8192 (defines the main circle size).
 - **Margin \(m\):** 255 (defines thickness of the rings).
   
